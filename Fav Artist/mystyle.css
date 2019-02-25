@@ -1,0 +1,17 @@
+body {
+    
+    background-color: skyblue;
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cartoon_cloud.svg/1280px-Cartoon_cloud.svg.png"); 
+    background-size:300px;
+}
+p { font-family:cursive;
+    text-shadow: 2px .001px red;
+    text-align:center;}
+img { 
+    padding: 25px; margin:70px;
+    
+}
+h3{ font-family:cursive;
+    text-shadow: 2px .001px red;
+    text-align:center;
+     }
