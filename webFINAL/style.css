@@ -1,0 +1,5 @@
+.jumbotron{ 
+    text-align: center;
+    font-family: fantasy;
+    background-image: linear-gradient( limegreen, yellow, orange);
+}
