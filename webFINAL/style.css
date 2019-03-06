@@ -4,3 +4,17 @@
     background-image: linear-gradient(to bottom right, red , blue);
     
 }
+.card-img-top2{
+    height: 90%;
+    width: 80%;
+}
+.card-img-top3{
+    height:50%;
+    width:70%;
+}
+.row{
+        margin: 0 auto;
+        float: none; 
+        margin-bottom: 10px; 
+}
+
