@@ -1,4 +1,13 @@
 .jumbotron{
+    background-size: cover;
+    font-size: 150%  
+    background-color:transparent;
+    margin-top:300px;
+    margin-bottom:350px;
+}
+body{
     background: url(images/paint.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 821px
 }
