@@ -1,9 +1,10 @@
 .jumbotron{
     background-size: cover;
-    font-size: 150%  
-    background-color:transparent;
+    font-size: 150%;  
+    background-color: transparent;
     margin-top:300px;
     margin-bottom:350px;
+    color: White
 }
 body{
     background: url(images/paint.jpg);
